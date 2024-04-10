@@ -1,0 +1,11 @@
+fragment PageParts on Page {
+  __typename
+  hero_text
+  links {
+    __typename
+    link
+    label
+    style
+  }
+  imgSrc
+}

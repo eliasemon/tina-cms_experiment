@@ -1,0 +1,11 @@
+{
+  "hero_text": "# Discover the Power of Our Services\n\nTransform your business with our innovative solutions.\n",
+  "links": [
+    {
+      "link": "#",
+      "label": "Get Started",
+      "style": "button"
+    }
+  ],
+  "imgSrc": "/assets/PicturePlaceholder.png"
+}

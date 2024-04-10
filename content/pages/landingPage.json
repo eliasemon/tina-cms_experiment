@@ -5,6 +5,11 @@
       "link": "#",
       "label": "Get Started",
       "style": "button"
+    },
+    {
+      "link": "#",
+      "label": "Learn More",
+      "style": "simple"
     }
   ],
   "imgSrc": "/assets/PicturePlaceholder.png"
